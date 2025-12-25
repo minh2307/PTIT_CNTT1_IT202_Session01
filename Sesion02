@@ -1,0 +1,36 @@
+1. Các thực thể
+
+Các thực thể trong hệ thống gồm:
+
+Sinh viên
+
+Môn học
+
+Mục tiêu học tập
+
+2. Thuộc tính cơ bản của từng thực thể
+Sinh viên
+
+Mã sinh viên (khóa chính)
+
+Môn học
+
+Mã môn học (khóa chính)
+
+Tên môn học
+
+Số tín chỉ
+
+Mục tiêu học tập
+
+Mã mục tiêu (khóa chính)
+
+Nội dung mục tiêu
+
+3. Mối quan hệ giữa các thực thể
+
+Sinh viên – Môn học: quan hệ một–nhiều
+Một sinh viên có thể học nhiều môn học.
+
+Môn học – Mục tiêu học tập: quan hệ một–nhiều
+Một môn học có thể có nhiều mục tiêu học tập, mỗi mục tiêu chỉ thuộc về một môn học.
